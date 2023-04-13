@@ -1,8 +1,10 @@
-<div id="header" align="center">
-  <img src="https://giphy.com/embed/Z5HVfEvnxr67u" width="100"/>
+<div align="center">
+  <img src="https://media.giphy.com/media/xT1Ra0r3HxHB8ZkZJS/giphy.gif" width="600" height="300"/>
 </div>
 
+
 <div id="badges">
+<div align="center">
   <a href="https://www.linkedin.com/in/scottcarpenter1b4/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -11,11 +13,16 @@
   </a>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=carp704&style=flat-square&color=blue" alt=""/>
+<div id="counter">
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=carp704&style=flat-square&color=blue" alt=""/>
+</div>
+  
 ---
+
 - 👋 Hi, I’m Scott
-- 👀 I’m interested in Information Security
-- 🌱 I’m currently learning Rust
+- ⚔ I’m interested in Information Security
+- 🦀 I’m currently learning Rust
 - 📚 I'm currently studying for the Offensive Security OSEP certification
 
 <!---
