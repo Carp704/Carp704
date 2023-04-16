@@ -21,7 +21,7 @@
 ---
 
 - 👋 Hi, I’m Scott
-- ⚔ I’m interested in Information Security
+- ⚔ I’m work in Information Security
 - 🦀 I’m currently learning Rust
 - 📚 I'm currently studying for the Offensive Security OSEP certification
 
