@@ -22,7 +22,6 @@
 
 - 👋 Hi, I’m Scott
 - ⚔ Information Security
-- 🦀 Learning Rust
 - 📚 Studying for the OffSec OSEP certification
 
 <!---
